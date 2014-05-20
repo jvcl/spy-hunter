@@ -1,6 +1,7 @@
 Introduction
 
 This is a Test Plan for the Java game SpyHunter. This is a classic arcade game where the objective is to avoid collisions with others cards and obstacles in the way. In addition, players can have the option to destroy cars in the road with a special gun. 
+
 This game was ported to a Java version by Jorge Valdivia which tries to simulate the basic functions of the game.
 
 This document describes the testing strategy and approaches. It also contains various resources required , schedules and risk associated.
@@ -12,20 +13,22 @@ The focus of the this test plan is to document the testing schedule of existing 
 Required Resources 
 
 Computer System with Java VM 1.7 installed.
+
 Netbeans 8.0 installed
 Internet access
 Github Account, Github Local Repository and Remote Repository.
 Student to write Test and source code.
 Features to be tested 
 	
-	The features to be tested are:
+The features to be tested are:
+
 Game Flow
-Game starts
-Top scores load
-Game pauses
-Game controls
-Keyboard input
-Mouse Input
+	Game starts
+	Top scores load
+	Game pauses
+	Game controls
+	Keyboard input
+	Mouse Input
 Collision detection
 Collision between player car and generated cars
 Collisions between player car and obstacles
@@ -88,6 +91,7 @@ Deliverables
 	Commit Log
 
 Risk and Dependences
+
 Risks
 Unable to acquire the necessary level the skill and become ready to test
 Unable to acquire some of the necessary hardware and software required for integration and system testing
