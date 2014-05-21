@@ -1,13 +1,15 @@
-1. Introduction
+# Test Plan for Spy Hunter
+
+## 1. Introduction
 	This is a Test Plan for the Java game SpyHunter. This is a classic arcade game where the objective is to avoid collisions with others cards and obstacles in the way. In addition, players can have the option to destroy cars in the road with a special gun. 
 	This game was ported to a Java version by Jorge Valdivia which tries to simulate the basic functions of the game.
 
 	This document describes the testing strategy and approaches. It also contains various resources required , schedules and risk associated.
 
-2. Testing objectives
+## 2. Testing objectives
 	The focus of the this test plan is to document the testing schedule of existing feature to find software defects. In addition, this plan documents testing to support new features of the game that will allow extends the game for future releases. 
 
-3. Required Resources 
+## 3. Required Resources 
 	* Computer System with Java VM 1.7 installed.
 	* Netbeans 8.0 installed
 	* Internet access
@@ -51,7 +53,7 @@
 	* Strings input
 		* Names of players are correctly entered to the game
 
-4. Testing Methodology
+## 4. Testing Methodology
 	* White box testing
 	* Unit Testing
 	* Functional Testing
@@ -62,14 +64,14 @@
 	* Security Testing
 	* Compatibility Testing
 
-5. Testing Methodologies not considered
+# 5. Testing Methodologies not considered
 	* Stress Testing
 	* Recovery Testing
 	* Beta Testing
 	* Comparison Testing
 	* Load Testing
 
-6. Features not to be tested
+## 6. Features not to be tested
 	* File I/O
 	* Java Swing Interfaces
 	* Sound interface
@@ -77,13 +79,13 @@
 	* Multiplayer
 	* Online Play
 
-7. Deliverables
+## 7. Deliverables
 	* Game instructions
 	* Software specification
 	* Tests Log
 	* Commit Log
 
-8. Risk and Dependences
+## 8. Risk and Dependences
 	* Risks
 		* Unable to acquire the necessary level the skill and become ready to test
 		* Unable to acquire some of the necessary hardware and software required for integration and system testing
@@ -93,7 +95,7 @@
 		* Misunderstanding of requirements.
 		* Hardware Failure 
 
-9. Dependences
+## 9. Dependences
 	* Student to write test cases
 	* Java virtual machine installed
 	* System with access to internet
