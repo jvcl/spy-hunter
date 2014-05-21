@@ -1,13 +1,15 @@
 # Test Plan for Spy Hunter
 
 ## 1. Introduction
-	This is a Test Plan for the Java game SpyHunter. This is a classic arcade game where the objective is to avoid collisions with others cards and obstacles in the way. In addition, players can have the option to destroy cars in the road with a special gun. 
-	This game was ported to a Java version by Jorge Valdivia which tries to simulate the basic functions of the game.
 
-	This document describes the testing strategy and approaches. It also contains various resources required , schedules and risk associated.
+This is a Test Plan for the Java game SpyHunter. This is a classic arcade game where the objective is to avoid collisions with others cards and obstacles in the way. In addition, players can have the option to destroy cars in the road with a special gun. 
+This game was ported to a Java version by Jorge Valdivia which tries to simulate the basic functions of the game.
+
+This document describes the testing strategy and approaches. It also contains various resources required , schedules and risk associated.
 
 ## 2. Testing objectives
-	The focus of the this test plan is to document the testing schedule of existing feature to find software defects. In addition, this plan documents testing to support new features of the game that will allow extends the game for future releases. 
+
+The focus of the this test plan is to document the testing schedule of existing feature to find software defects. In addition, this plan documents testing to support new features of the game that will allow extends the game for future releases. 
 
 ## 3. Required Resources 
 	* Computer System with Java VM 1.7 installed.
