@@ -99,9 +99,9 @@ The focus of the this test plan is to document the testing schedule of existing 
 	* Misunderstanding of requirements.
 	* Hardware Failure 
 
-## 9. Dependences
-* Student to write test cases
-* Java virtual machine installed
-* System with access to internet
+* Dependences
+	* Student to write test cases
+	* Java virtual machine installed
+	* System with access to internet
 
 
