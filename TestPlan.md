@@ -58,50 +58,50 @@ The focus of the this test plan is to document the testing schedule of existing 
 	* Names of players are correctly entered to the game
 
 ## 4. Testing Methodology
-	* White box testing
-	* Unit Testing
-	* Functional Testing
-	* Regression Testing
-	* Usability Testing
-	* Performance Testing
-	* Install/Uninstall testing
-	* Security Testing
-	* Compatibility Testing
+* White box testing
+* Unit Testing
+* Functional Testing
+* Regression Testing
+* Usability Testing
+* Performance Testing
+* Install/Uninstall testing
+* Security Testing
+* Compatibility Testing
 
 # 5. Testing Methodologies not considered
-	* Stress Testing
-	* Recovery Testing
-	* Beta Testing
-	* Comparison Testing
-	* Load Testing
+* Stress Testing
+* Recovery Testing
+* Beta Testing
+* Comparison Testing
+* Load Testing
 
 ## 6. Features not to be tested
-	* File I/O
-	* Java Swing Interfaces
-	* Sound interface
-	* Graphics interface
-	* Multiplayer
-	* Online Play
+* File I/O
+* Java Swing Interfaces
+* Sound interface
+* Graphics interface
+* Multiplayer
+* Online Play
 
 ## 7. Deliverables
-	* Game instructions
-	* Software specification
-	* Tests Log
-	* Commit Log
+* Game instructions
+* Software specification
+* Tests Log
+* Commit Log
 
 ## 8. Risk and Dependences
-	* Risks
-		* Unable to acquire the necessary level the skill and become ready to test
-		* Unable to acquire some of the necessary hardware and software required for integration and system testing
-		* Timming issues, delay in writing tests. 
-		* Bad project management 
-		* Lack of prioritization
-		* Misunderstanding of requirements.
-		* Hardware Failure 
+* Risks
+	* Unable to acquire the necessary level the skill and become ready to test
+	* Unable to acquire some of the necessary hardware and software required for integration and system testing
+	* Timming issues, delay in writing tests. 
+	* Bad project management 
+	* Lack of prioritization
+	* Misunderstanding of requirements.
+	* Hardware Failure 
 
 ## 9. Dependences
-	* Student to write test cases
-	* Java virtual machine installed
-	* System with access to internet
+* Student to write test cases
+* Java virtual machine installed
+* System with access to internet
 
 
