@@ -12,6 +12,7 @@ This document describes the testing strategy and approaches. It also contains va
 The focus of the this test plan is to document the testing schedule of existing feature to find software defects. In addition, this plan documents testing to support new features of the game that will allow extends the game for future releases. 
 
 ## 3. Required Resources 
+
 	* Computer System with Java VM 1.7 installed.
 	* Netbeans 8.0 installed
 	* Internet access
